@@ -31,3 +31,7 @@ This is a RESTful API for a book management system. It is built with Java, Sprin
 2. Navigate to the project directory.
 3. Run the command `mvn spring-boot:run` to start the application.
 4. The application will start running at `http://localhost:8080`.
+
+## Credits
+
+This project was made possible by the valuable tutorials and resources provided by [Baeldung](`https://www.baeldung.com/spring-boot`). Their comprehensive guides on Spring Boot were instrumental in the development of this REST API.
